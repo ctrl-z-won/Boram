@@ -1,0 +1,10 @@
+** 리액트 시작 명령어들
+
+-설치
+npm install -g create-react-app
+
+-사용
+create-react-app hello-react
+
+cd hello-react
+yarn start		--> 리액트 프로젝트 시작!
